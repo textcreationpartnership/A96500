@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made by Sergeant Wild in the honourable House of Commons, in the cause of Mercurius Britanicus As it was also (the next day) delivered from his own mouth in a boate, as he past between the temple staires, and Westminster Bridge, heretofore call'd Kings Bridge.</title>
+            <author>Wilde, John, 1590-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96500</idno>
+            <idno type="STC">Wing W2164</idno>
+            <idno type="STC">ESTC R230474</idno>
+            <idno type="EEBO-CITATION">99896295</idno>
+            <idno type="PROQUEST">99896295</idno>
+            <idno type="VID">154099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2396:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made by Sergeant Wild in the honourable House of Commons, in the cause of Mercurius Britanicus As it was also (the next day) delivered from his own mouth in a boate, as he past between the temple staires, and Westminster Bridge, heretofore call'd Kings Bridge.</title>
+                  <author>Wilde, John, 1590-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>M. DC. XXXV. [1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nedham, Marchamont, 1620-1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154099:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:154099:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <pb facs="tcp:154099:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>
+               <hi>A</hi> SPEECH MADE BY SERGEANT WILD In the Honourable Houſe of COMMONS, IN THE CAUSE OF <hi>Mercurius Britanicus.</hi>
+            </p>
+            <p>As it was alſo (the next day) delivered from his own Mouth in a Boate, as he paſt between the Temple Staires, and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> Bridge, heretofore call'd KINGS Bridge.</p>
+            <figure>
+               <figDesc>royal crowns of England, Scotland, France and Ireland</figDesc>
+            </figure>
+            <p>M.DC.XXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:154099:3"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="1" facs="tcp:154099:3"/>
+            <!-- PDF PAGE 31 -->
+            <head>M<hi rend="sup">r</hi> SERGEANT WILD His Speech in the Honourable Houſe of <hi>Commons,</hi> the 32. of <hi>May,</hi> in the Cauſe of <hi>Mercurius Britanicus.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E related unto you in our laſt worke, the two, (or both) the Houſes were totally or wholly buſied all day, (or from Morning till Night) concerning what rewards <hi>Mercurius Britan<g ref="char:EOLhyphen"/>nicus</hi> was worthy to have, for his ſerviceable, laudable, and indefatigable paines-taking, in his weekly writings for the Parliament, where many of the Houſe of Commons, were of opinion, that the Gentleman had deſerv'd well, but there was no reſolved or ſetled reſolu<g ref="char:EOLhyphen"/>tion amongſt them, what to determine of him; where contra<g ref="char:EOLhyphen"/>ry to the wiſdome, witte, ſence, reaſon, and inclination of the Houſe, the Grave and Ancient Knight (Sir <hi>Benjamin Ruddy<g ref="char:EOLhyphen"/>ard</hi>) only oppoſing, and bitterly inveighing againſt him, (as we have truly related in our former occurrences of the 31. of <hi>Aprill</hi> laſt) where that important buſineſſe was left to the diſ<g ref="char:EOLhyphen"/>cretion and cenſure of the Houſe. So that this day the matter being againe renewed and debated on, M<hi rend="sup">r</hi> Sergeant <hi>Wilde,</hi> was appointed to plead in the eaſe of <hi>Britanicus,</hi> who like a ſecond <hi>Cicero,</hi> or a double demie <hi>Demoſthenes,</hi> declar'd himſelfe both a Learned Advocate, and an Eloquent Orator as followeth.</p>
+            <p>RIght Honourable, and moſt conſtant Conſcript Patriots, if the worth and merits of the Gentleman in whoſe cauſe I ſpeake at this time, be well weighed and conſidered, the ſpeech of an Advocate would be ſuperfluous, and time being
+<pb n="2" facs="tcp:154099:4"/>
+               <!-- PDF PAGE 32 -->ſo pretious as it is, this Honourable Aſſembly might imploy it in more neceſſary and urgent occaſions. But when a perſon ſo high deſerving, is malignantly traduc'd, and the Magnificent Beneficence of your unparallel'd gratitude to noble endeavou<g ref="char:EOLhyphen"/>rers, and ſtudious paines-takers, ſo tranſcendently calumniated, it is then high time to ſpeak, if his own deſerts were tongue<g ref="char:EOLhyphen"/>tied, dumb, mute, ſilent or ſpeechleſſe.</p>
+            <p>I have read in he voluminous collections of M<hi rend="sup">r</hi> 
+               <hi>Samuell Purchas,</hi> (intituled <hi>Purchas his Pilgrimage</hi>) of the Kingdom of <hi>Bornea</hi> in the <hi>Eaſt India:</hi> The King of that vaſt Region (al<g ref="char:EOLhyphen"/>though he be a Prince of mighty unlimitable Potency, for Ter<g ref="char:EOLhyphen"/>ritories, Men, Armes, Ammunition, Artillery and Mony) yet the ſafeſt and chiefeſt truſty guard for his perſon, is a Regiment of Dogges, thoſe Dogges are his only Life-guard, in whoſe ſerviceable fidelity, his Majeſticall ſequrity doth totally con<g ref="char:EOLhyphen"/>ſiſt. This Canicular alluſion, is not impertinent to my fol<g ref="char:EOLhyphen"/>lowing, or ſubſequent interlocution. For though a man hath not the ſhape or appetite of a Dogge, yet no man hath cauſe to be aſham'd to imitate a Dogge in fidelity to his Maſter. Call to your remembrance (I humbly beſeech you) that the Re<g ref="char:EOLhyphen"/>verend Preachers, and Learned writers of eloquent perſwa<g ref="char:EOLhyphen"/>ſive Pamphlets, and weekly newes have not plaid the parts of dumb Dogges, but with their vigilant and violent barking, ſnarling and byteing, they have (with an <hi>Vliſſean</hi> emulation and imitation, been more powerfull, then the ſtrongeſt <hi>Ajaxi<g ref="char:EOLhyphen"/>an</hi> Army or Sword in the gaining of the ſeavenfold ſhield, and divine tempor'd Armour of the moſt valiant <hi>Achilles</hi> with his multitude of <hi>Mirmidons.</hi>
+            </p>
+            <p>It is apparent that had it not been for the perpetuall ſupportation, that this Parliament hath had, by the happy meanes of thoſe famous Lecturers, and Learned Writers, the Kings party had long ſince prevailed, and the Proteſtant Religion had flouriſhed and been maintained amongſt us, in ſpight of our teethes. But they, (and none but they are the chiefe Propps, Pillars, Miniſters, and Inſtruments, that have both built, fram'd, erected, and upheld, the unparallel'd Geo<g ref="char:EOLhyphen"/>metricall fabrick of all the Mighty unexampled atchieve<g ref="char:EOLhyphen"/>ments,
+<pb n="3" facs="tcp:154099:4"/>
+               <!-- PDF PAGE 32 -->which (to our laſting renowne) we have accompli<g ref="char:EOLhyphen"/>ſhed, and may happily proceed in: for theſe men, have not only fully engrafted the People, with a conſtant beliefe of us, that our conſultations are unerrible, our judgements infallible, our decrees unalterable, our opinions immutable, our power im<g ref="char:EOLhyphen"/>pregnable, our force invincible, and all our Actions unqueſtio<g ref="char:EOLhyphen"/>nable; by which meanes, they have continually furniſhed us, with meanes and maintenance defenſive and offenſive, of Men, Mony, Shipping, of all the Kings Houſes, Strengths, fortreſſes, and Revenues, and finally of any thing, and all things whereby we ſubſiſt.</p>
+            <p>Amongſt the many and numerous Multiplicity of thoſe fa<g ref="char:EOLhyphen"/>mous Authors, the induſtrious and acute <hi>Mercurius Britani<g ref="char:EOLhyphen"/>cus,</hi> hath bin, and is the <hi>Atlas</hi> of our foundation, and the Top-galiant of our felicity. Who hath ſo vehemently revil'd the King, who hath more contumeliouſly rail'd againſt the Queen, who hath more Learnedly ſcandaliz'd the Peeres, who hath more Religiouſly abuſed the Proteſtant Religion, who hath more piouſly ſcandall'd the Common-prayer-booke, who hath ſo Reverendly vilified the Clergy, who hath more violently ſlander'd the Kings Servants, who hath more Wittily bejeer'd the Cavaliers, and who hath more prettily run the hazard of a <hi>Gregorian</hi> danger then he? And all theſe ſervices he hath done for us, for which my opinion is, that we cannot doe too much for him.</p>
+            <p>I muſt confeſſe the reſt have done well, but as there are de<g ref="char:EOLhyphen"/>grees (as our Logicians ſay) of <hi>Good, Better,</hi> and <hi>Beſt,</hi> ſo that though M<hi rend="sup">r</hi> 
+               <hi>Booker,</hi> M. <hi>Nye,</hi> and M. <hi>Lilly,</hi> have done moſt Ex<g ref="char:EOLhyphen"/>cellent-ly, <hi>Aſtronomical-lye, Aſtrological-lye, Mathematical-lye,</hi> and <hi>Chronological lye,</hi> in their infuſing into the Peoples credulity, the predictions and pretendings, of Auſpitious and Parliamentall Proditorious Events; wherein if the Starres and Planets have either not kept touch (or promiſe with them) or that betwixt the Conſtellations, Revolutions, and Influen<g ref="char:EOLhyphen"/>ces of the Celeſtiall Orbes, Spheares, and Hemiſpheare<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the Terreſtriall Globe there is ſuch diſtance, that intelligence may faile, meſſengers may meet with ſome Malevolent diſ<g ref="char:EOLhyphen"/>aſters,
+<pb n="4" facs="tcp:154099:5"/>
+               <!-- PDF PAGE 33 -->Letters may be intercepted, and many impediments may chance to alter and change the concluſions, that ſuch A<g ref="char:EOLhyphen"/>ſtronomers do ground upon, as it did with M. <hi>Booker,</hi> when his pretences fail'd in the taking of <hi>Oxford,</hi> with two Armies the 29. of <hi>May</hi> laſt 1644. although all our Labour was not then loſt, for with the dropping downe of no more then 700 of our men, we ſaw <hi>Oxford,</hi> and Conquer'd a Mill foure miles from thence, and we alſo took two Carts, laden with Bedſteads, joyn'd-ſtooles, Waſhing-bolles, and Bucking-tubbs. Concern<g ref="char:EOLhyphen"/>ing Captain <hi>George Wither,</hi> it cannot be deny'd, but he hath approv'd himſelfe to be the Creame of Wiſdom, the Lees of Wit, the Pith, Marrow, and Marrow-bone of Invention, for our ſakes, cauſe, and defence, he hath mounted the two top'd <hi>Pernaſſus,</hi> pump'd at <hi>Hellicon,</hi> and drain'd the <hi>Theſpian</hi> foun<g ref="char:EOLhyphen"/>tain, he hath Ranſack'd the <hi>Muſes,</hi> rifl'd the <hi>Furies,</hi> Plunder'd the <hi>Divell,</hi> and Raked Hell, and all this he hath done for our ſervices (as his Learned volumne called <hi>Campo-Muſae</hi> will teſtify. As for the <hi>Scowte,</hi> the <hi>Scottiſh Dove,</hi> the <hi>Poſt, Mercurius Civicus,</hi> the <hi>Diurnalls, Occurrences,</hi> Weekly Newes Bookes, and other Aydes, Helps, and Aſſiſtants, It muſt be gratefully acknowledged, that their Labours have bin prevalent, againſt the Malevolent, though not Equivalent to the moſt meritorious <hi>Mercurius Britanicus.</hi>
+            </p>
+            <p>What though <hi>Taylor</hi> the <hi>Thameſiſſian Aquatican, Humidian, Hydromantian</hi> &amp; <hi>Hidropican</hi> Poet, hath ſmatteringly ſputter'd at his fame, &amp; moſt <hi>Amaritudanically</hi> diſſected &amp; Embowell'd his Reputation; Though many of our Malignants, have moun<g ref="char:EOLhyphen"/>ted their Penns againſt him, as we have done our Cannons (or the Kings) againſt we know (and know not) whom: yet ne<g ref="char:EOLhyphen"/>vertheleſſe, <hi>Hopes Anchor</hi> hath Moar'd him, <hi>Fortitudes Pillar</hi> hath ſupported him, <hi>Perſeverance</hi> hath ſpur'd him forward, Opportunity hath been his Handmaide, and old <hi>Time</hi> (him<g ref="char:EOLhyphen"/>ſelfe) hath not diſdain'd to wait on him, as a Page, or (as the Proverb ſaies) <hi>a T' Anthony Pigge.</hi> So that for our Service, Honour, and dignity, he hath been more violent and vigilant, then all the reſt of the Pack; Therefore to put an end, to finiſh, to make a concluſion, to come to a full poynt, to ſhut up all
+<pb n="5" facs="tcp:154099:5"/>
+               <!-- PDF PAGE 33 -->with a Period, and briefly (to avoyd Tautology) in a word, to ſpeak faithfully and fully, as I ſaid before, of the King of <hi>Bo<g ref="char:EOLhyphen"/>nea's</hi> Guard of Dogges, ſo all thoſe foremention'd Worthies, have been, and are a diligent, watchfull, and ſtrong guard, for the defence and ſupport of all that we have attempted or ac<g ref="char:EOLhyphen"/>compliſhed againſt the King, the Queen, the Nobility, Gen<g ref="char:EOLhyphen"/>try, Commons, and all that doe either adhere, affect, ayde, aſſiſt, ſerve, honour or obey, any of the Malignants cauſe, Perſon or Party, amongſt which <hi>Mercurius Britanicus</hi> hath been the moſt unmatchable, bold, brave, barking, brauling, biting <hi>Bandogge,</hi> and deſerves to be held as Captain of all our Guards of Writers, Speakers, Preachers, either for Palpit, Pen, Preſſe, Print, or, (as a man may ſay) and ſo forth.</p>
+            <p>I will not derogate from the Learned, or detract, diminiſh, or extenuate, the worths of other famous men in this kind, e<g ref="char:EOLhyphen"/>ſpecially M<hi rend="sup">r</hi> 
+               <hi>Henry Burton,</hi> and M<hi rend="sup">r</hi> 
+               <hi>William Prinne,</hi> they have acted their parts <hi>Tragicomically,</hi> and have (for the propogati<g ref="char:EOLhyphen"/>on of our matchleſſe and unexemplified <hi>Herculean</hi> Labours) moſt Lawfully and Worthily, aſcended to fames <hi>Pillor, I,</hi> but though theſe grave <hi>Solons,</hi> and Reverend Renowned <hi>An<g ref="char:EOLhyphen"/>naxagor-Aſſes,</hi> have unanimouſly, joyntly, and ſeverally done us ſervices, beyond all <hi>Guerdon,</hi> yet for as much as they are in a diſconcordance, a diſunion betwixt themſelves, a diſparitie of opinions, or (to avoid tediouſneſſe) a kind of a contention.</p>
+            <p>For the much more then nine times moſt Reverend M<hi rend="sup">r</hi> 
+               <hi>Burton,</hi> he is elevated into the Heroick Humour, and inſpir'd with the all commanding ſpirit of <hi>Pompeius Magnus,</hi> who would have no Equall; and M<hi rend="sup">r</hi> 
+               <hi>Prinne,</hi> is of the milder Maje<g ref="char:EOLhyphen"/>ſtick opinion of <hi>Caeſar,</hi> to allow equalls, but no ſuperiors. The one will be <hi>Dominus Fac-totum,</hi> a Nowne Subſtantive, or a Subſtantiall Independent, to command, &amp; not to be counter<g ref="char:EOLhyphen"/>manded; The other is poſſeſt, that the Parochiall Presbytery is more juſtly equall, and may better ſpinne out theſe our gain<g ref="char:EOLhyphen"/>full diſtractions, and weave out the Warre many a faire yeare (that we be not forc'd to a Peace againſt our wills.) Thus theſe two, or this Brace of our Maine Pillars, can neither agree, nor fall together by the Eares.</p>
+            <pb n="6" facs="tcp:154099:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>To Returne from whence I have digres'd <hi>(Mercurius Bri<g ref="char:EOLhyphen"/>tanicus)</hi> whoſe merits I have partly ſhewed, how he was vilified in this Honourable Aſſembly, I need not to repeate, for his ſervices I think him worthy of 2000<abbr>l</abbr> 
+               <hi>per annum</hi> out of the <hi>Publique Faith's</hi> next Edition, or elſe (your grave wiſ<g ref="char:EOLhyphen"/>dom's, may take into your conſiderations, that he is an able Gentleman, and as capable to be made Lord keeper of our new Great Seale as my ſelfe, or elſe he can performe and exe<g ref="char:EOLhyphen"/>cute the office of the Maſter of the <hi>Rolls,</hi> as ſufficiently as M<hi rend="sup">r</hi> Speaker (without diſparagement) and ſo I leave him and his deſerts to your wiſdoms Honourable diſpoſall, and I alſo leave Sir <hi>Benjamin Ruddyard</hi> (who ſo bodily affronted and calum<g ref="char:EOLhyphen"/>niated <hi>Mercurius Britanicus</hi>) to your juſt and unerring cen<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>At the end, concluſion, or Cataſtrophe of this ſpeech, the whole houſe was in a generall pawſe or ſilence, each of them Rap'd, or (as it were tranſported with an extaſie) ſtruck with a ſuddaine Admiration, at the compoſure, delivery, accant, cadence, emphaſis, utterance, volubility, eloquence, elocuti<g ref="char:EOLhyphen"/>on, and ornated phraſe or ſtile, of the Learned Sergeant, that at laſt, they all were pleas'd (after ſome particular favourable coughs and hums) to applaud him with a reſpective venera<g ref="char:EOLhyphen"/>ble generall Hum, (in token of Approbation) and withall clapping their hands (with an unanimous acclamation) they gave ſuch a ſhout that the noyſe was heard, from <hi>Weſtminſter</hi> to <hi>Wapping,</hi> and Saint <hi>Thomas a waterings,</hi> and when all was ended, the old Knight (Sir <hi>Ben. Rud.</hi>) was confin'd to his Chamber, and <hi>Mercurius Britanicus</hi> his cauſe, was referr'd to an afternoon-Committee.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154099:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <pb facs="tcp:154099:7"/>
+            <!-- PDF PAGE 35 -->
+         </div>
+      </body>
+   </text>
+</TEI>
